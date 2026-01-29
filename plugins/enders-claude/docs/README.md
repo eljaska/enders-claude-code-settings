@@ -13,6 +13,25 @@ Complete reference documentation for Claude Code's major features and components
 7. [Output Styles - Customize Response Format](./7.%20Output%20Styles.md)
 8. [Built-in Commands - Core CLI Tools](./8.%20Built-in%20Commands.md)
 
+## Plugin Installation
+
+This documentation is also available as a Claude Code plugin with starter configurations.
+
+**Install:**
+```bash
+claude plugin install enders-claude
+```
+
+**What you get:**
+- All this documentation accessible within Claude Code
+- Starter skills (Trino code review, git commit helper)
+- Auto-installation of recommended plugins
+- Example configurations (CLAUDE.md, .mcp.json)
+
+See the [root README](../README.md) for full plugin details.
+
+---
+
 ## Learning Path
 
 ### For Beginners

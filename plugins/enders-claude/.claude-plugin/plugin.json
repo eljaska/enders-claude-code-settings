@@ -1,0 +1,22 @@
+{
+  "name": "enders-claude",
+  "version": "1.0.0",
+  "description": "Comprehensive Claude Code configuration with Starburst/Trino conventions, auto-installs required plugins, and includes extensive feature documentation",
+  "author": {
+    "name": "Ender Jaska",
+    "email": "ender.jaska@starburstdata.com"
+  },
+  "homepage": "https://github.com/eljaska/enders-claude",
+  "repository": "https://github.com/eljaska/enders-claude.git",
+  "license": "MIT",
+  "keywords": [
+    "starburst",
+    "trino",
+    "java",
+    "documentation",
+    "code-review",
+    "git-workflow",
+    "starter-config"
+  ],
+  "hooks": "./hooks/hooks.json"
+}

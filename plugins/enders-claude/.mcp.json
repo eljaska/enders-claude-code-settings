@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "github": {
+      "transport": "http",
+      "url": "https://api.githubcopilot.com/mcp/",
+      "comment": "GitHub integration for issues and PRs - configure with your credentials"
+    }
+  }
+}
